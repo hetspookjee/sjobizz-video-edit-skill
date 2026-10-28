@@ -1,0 +1,10 @@
+# Footage, renders and per-project work stay on the machine, never in git
+examples/
+work/
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png
+.DS_Store
+__pycache__/
